@@ -1,6 +1,6 @@
 ### Hello! Eu sou o Luiz! 🖖
 
-- 💻 Front-end Web Developer.
+- 💻 Web Developer.
 - 📚 Estudando React.js.
 - 📫 Contato: luizhenriquetm123@gmail.com
 
